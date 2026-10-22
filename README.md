@@ -1,16 +1,20 @@
-## Hi there 👋
+# Asim Khan
 
-<!--
-**asimkhan3355/asimkhan3355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer · Founder of [Zeenat](https://zeenatonline.com)
 
-Here are some ideas to get you started:
+I design and build web applications, from the storefront to the checkout. I'm the founder of **Zeenat**, a one-stop shopping destination delivering quality products across Pakistan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+
+**[Zeenat Online](https://zeenatonline.com)** is a full-featured online shopping platform built from scratch, with products across every category and nationwide delivery.
+
+## Tech Stack
+
+- **Frontend:** React, JavaScript
+- **Backend:** ASP.NET Core, C#
+- **Database:** PostgreSQL
+
+## Contact
+
+- Website: [zeenatonline.com](https://zeenatonline.com)
+- Location: Karachi, Pakistan
